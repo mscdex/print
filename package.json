@@ -1,0 +1,10 @@
+{ "name": "print",
+  "version": "0.0.1",
+  "author": "Brian White <mscdex@mscdex.net>",
+  "description": "A node.js module for communicating with printers",
+  "main": "./print",
+  "engines": { "node" : ">=0.6.0" },
+  "keywords": [ "print", "printing", "printers", "ipp", "cups" ],
+  "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/print/raw/master/LICENSE" } ],
+  "repository" : { "type": "git", "url": "http://github.com/mscdex/print.git" }
+}
