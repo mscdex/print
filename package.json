@@ -1,5 +1,5 @@
 { "name": "print",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "A node.js module for communicating with printers",
   "main": "./print",
